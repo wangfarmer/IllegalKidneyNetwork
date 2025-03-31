@@ -1,0 +1,271 @@
+Date,Title,Source.Name,ID,predicted_related,Sellers,Buyers,Brokers,Surgery,group
+2000-10-30T00:00:00Z,Villagers sell kidneys to survive,The Calgary Herald (Alberta),19710,1,Moldova,Turkey,Turkey,Turkey,11
+2001-01-11T00:00:00Z,I'M BUYING KIDNEY OF EXECUTED CHINESE CONVICT,Daily Star,3,1,China,United Kingdom,China,China,29
+2001-04-02T00:00:00Z,British GPs selling donor kidneys,The Straits Times (Singapore),1001,1,"India, Turkey",Israel,"India, Turkey","India, Turkey",36
+2001-08-28T00:00:00Z,Ukraine surgeon to sue police for saying he smuggles human kidneys,dpa international (Englischer Dienst),19220,1,Ukraine,Ukraine,Ukraine,Ukraine,47
+2002-02-12T00:00:00Z,Flourishing kidney trade leaves a trail of misery in India,Agence France Presse - English,3739,1,India,India,India,India,51
+2002-03-29T00:00:00Z,Europe's poorest sell their kidneys,National Post (f/k/a The Financial Post)(Canada),7464,1,Turkey,"Israel, Turkey",Turkey,"Israel, Turkey",56
+2002-05-05T00:00:00Z,trading in the bizarre,"Herald Sun/Sunday Herald Sun (Melbourne, Australia)",14564,1,Turkey,Turkey,Russia,Turkey,58
+2002-08-29T00:00:00Z,British GP accused of trafficking in human organs,The Times (London),25471,1,India,India,India,India,59
+2002-08-29T00:00:00Z,Desperation for donors fuels a murky trade,The Times (London),25475,1,"China, India, Taiwan, US",India,India,"Germany, India",60
+2002-09-05T00:00:00Z,"We sold our own kidneys for the sake of our poor children; As a British GP is struck off for offering a kidney from a live donor, we visit the village at the centre of this barbaric trade",The Daily Mail and Mail on Sunday (London),26207,1,"India, Moldova",Moldova,"India, Moldova",Moldova,69
+2002-10-14T00:00:00Z,DOCTOR ACCUSED OVER LIVING DONOR TRANSPLANTS,PA UK & Ireland National Newswire,27066,1,India,India,India,India,71
+2002-11-09T00:00:00Z,Moldovan sold kidney to buy dad's medicine,"The Hamilton Spectator (Ontario, Canada)",27483,1,Moldova,"Israel, Romania, Ukraine",Turkey,Turkey,75
+2002-12-03T00:00:00Z,Two men are arrested on charges of trafficking human organs,Associated Press International,27862,1,Russia,Israel,Russia,Turkey,76
+2003-01-17T00:00:00Z,Indian police bust murky trade in human kidneys,Agence France Presse - English,28687,1,India,India,India,India,78
+2003-06-20T00:00:00Z,Indians busted for running kidney sale racket,Agence France Presse - English,1052,1,India,India,India,India,85
+2003-07-06T00:00:00Z,The World: Scandal of trade in body organs that leaves young scarred for life,The Observer (London),1402,1,Russia,Russia,Russia,Turkey,86
+2003-09-30T00:00:00Z,Buying kidneys from the poor; Syndicates cash in on illegal trade,"The Hamilton Spectator (Ontario, Canada)",2149,1,Moldova,"Israel, Russia, Turkey",Moldova,Turkey,95
+2003-12-03T00:00:00Z,"Police arrest 11, including 2 Israelis, for human organ trafficking",The Canadian Press,3203,1,"Brazil, Israel, South Africa","India, Israel, South Africa","India, Israel","Brazil, India, South Africa",101
+2003-12-04T00:00:00Z,"Human organ traffickers arrested in Brazil ; Two Israelis, nine Brazilians accused of talking 30 men into selling their kidney","The Hamilton Spectator (Ontario, Canada)",3215,1,"Brazil, Israel","Iraq, Israel",Israel,South Africa,138
+2003-12-04T00:00:00Z,Letter: A simple solution to transplant tourism,The Guardian (London),3220,1,Iran,Iran,Iran,Iran,144
+2003-12-05T00:00:00Z,TWO MORE HELD OVER TRAFFICKING OF BODY PARTS,The Independent (United Kingdom),3624,1,"Brazil, Israel",Israel,"Brazil, Israel",South Africa,179
+2003-12-05T00:00:00Z,Two arrests in body parts syndicate,The Irish Times,3629,1,Brazil,Brazil,Brazil,Brazil,184
+2003-12-06T00:00:00Z,Israeli convicted for receiving illegal kidney in South Africa,The Canadian Press,3641,1,"Brazil, Israel, South Africa","Brazil, Israel, South Africa","Brazil, Israel, South Africa","Brazil, South Africa",235
+2004-01-04T00:00:00Z,The joy a new kidney brings Six months ago his six-year-old son was near death for want of an organ donor. Robert Gore-Langton offers thanks to the family who gave Hal 'the gift of life' - and wishes more people would resolve to do the same,The Sunday Telegraph (London),4057,1,India,India,India,"India, UK",236
+2004-01-07T00:00:00Z,"I am, therefore I sell: There aren't enough donors, so it's time to let people sell their organs legally.",Ottawa Citizen,4065,1,Brazil,Brazil,South Africa,South Africa,240
+2004-01-15T00:00:00Z,Ex- Israeli army officer arrested in Brazil charged with illegal organ trafficking,Agence France Presse - English,4459,1,Israel,Israel,Israel,South Africa,244
+2004-01-23T00:00:00Z,S. Africa arrests more suspects in kidney trafficking scheme,Reuters Health Medical News,4473,1,Israel,Israel,Israel,South Africa,245
+2004-02-23T00:00:00Z,BRAZIL : POOR SELL ORGANS TO TRANS-ATLANTIC TRAFFICKING RING,Inter Press Service,4900,1,Brazil,Israel,Israel,South Africa,255
+2004-02-29T00:00:00Z,"At least 30 Brazilians sold kidneys, price got cheaper as supply increased, panel told.",RDS Business & Industry Database,5258,1,Brazil,Israel,Israel,South Africa,258
+2004-05-23T00:00:00Z,Tracking the Sale of a Kidney On a Path of Poverty and Hope,The New York Times,6294,1,"Brazil, Iran, Israel, Romania","Iran, Israel, Romania, United States","Iran, Israel, Romania",Brazil,265
+2004-08-04T00:00:00Z,Pakistan 's lucrative kidney trade,CNN.com,7413,1,Pakistan,Pakistan,Pakistan,Pakistan,276
+2004-09-11T00:00:00Z,Indian organ gang sells 50 kidneys,dpa international (Englischer Dienst),7822,1,India,India,India,India,278
+2005-01-25T00:00:00Z,Kerala Police probe kidney sale,HT Syndication,10072,1,India,India,India,India,290
+2005-12-11T00:00:00Z,UK kidney patients head for China: Britons are being targeted by an internet company offering the organs of dead prinsoners in a trade condemned as 'disgusting' by surgeons,The Observer (London),18022,1,"China, India, Iraq, Lebanon","Australia, Britain, Indonesia, Saudi Arabia, UK, Vietnam","China, India, Iraq","Australia, China, India, Iraq",313
+2005-12-20T00:00:00Z,China selling executed inmates' organs,UPI (United Press International),18049,1,China,"Britain, United Kingdom",China,China,317
+2006-01-07T00:00:00Z,Bulgaria busts black market for kidneys,Agence France Presse - English,18391,1,"Chechnya, Georgia, Israel, Moldova, Russia",Israel,Israel,Bulgaria,320
+2006-01-29T00:00:00Z,Pakistan to enact law to curb illegal kidney trade,dpa international (Englischer Dienst),19986,1,Pakistan,India,Pakistan,Pakistan,321
+2006-03-22T00:00:00Z,China's human organ industry to the rescue of despairing Japanese,The Irish Times,21412,1,"China, Egypt, Japan","Japan, Saudi Arabia","Egypt, Japan",China,325
+2006-04-19T00:00:00Z,Nigeria Human Organs Racketeering,Africa News,22546,1,Egypt,Egypt,Egypt,Egypt,328
+2006-05-15T00:00:00Z,Buying organs is wrong,Windsor Star,23826,1,Pakistan,Canada,Canada,Pakistan,330
+2006-08-06T00:00:00Z,State determined to nail freed kidney-trade accused,Sunday Times (South Africa),25640,1,Israel,Israel,Israel,"Israel, South Africa",334
+2006-10-01T00:00:00Z,Purchased kidney may have been used in transplant at Ehime hospital,Japan Economic Newswire,28100,1,Japan,Japan,Japan,Japan,336
+2007-01-14T00:00:00Z,Indian state probes sale of organs by tsunami victims: report,Agence France Presse - English,1645,1,India,India,India,India,349
+2007-02-27T00:00:00Z,Kidney 'is sold for a tractor',The Evening Standard (London),2964,1,"India, Pakistan","India, Pakistan","India, Pakistan","India, Pakistan",366
+2007-05-03T00:00:00Z,Israel Transplant Society regrets surgeon's arrest in Turkey for alleged organ sales,The Jerusalem Post,5132,1,Israel,Turkey,Turkey,Turkey,371
+2007-05-20T00:00:00Z,Scots fuel &pound,The Sunday Times (London),5480,1,Pakistan,"Pakistan, Scotland",Pakistan,Pakistan,378
+2007-05-27T00:00:00Z,Business is brisk at 'kidney bazaar' INDIATsunami survivors lured into becoming donors for Tamil Nadu 's illegal transplant racket INDIA,The Toronto Star,5750,1,"India, Pakistan",India,"India, Pakistan","India, Pakistan",382
+2007-05-27T00:00:00Z,DOCS HELD IN KIDNEY TRADE RAIDS,Daily Record and Sunday Mail,5752,1,Pakistan,Scotland,Pakistan,Pakistan,384
+2007-05-27T00:00:00Z,POLICE SWOOP OVER STOLEN KIDNEY SCAM MERRCURY REPORTER,Sunday Mercury,5754,1,Pakistan,Pakistan,Pakistan,Pakistan,388
+2007-07-23T00:00:00Z,Israeli police arrest nine citizens suspected of trafficking in organs,Associated Press International,6803,1,Ukraine,Israel,"Israel, Ukraine","Israel, Ukraine",398
+2007-07-25T00:00:00Z,Organ transplant ring,"The Advertiser/Sunday Mail (Adelaide, South Australia)",6809,1,"Israel, Ukraine",Israel,Ukraine,Ukraine,400
+2007-10-02T00:00:00Z,PAKISTAN : ORGAN PEDDLERS PREY ON POOR NEIGHBORHOODS,Inter Press Service,8153,1,"Pakistan, Scotland",Scotland,"Pakistan, Scotland","Britain, Pakistan",427
+2007-10-12T00:00:00Z,Ukraine police arrest Israeli in black market kidney case,dpa international (Englischer Dienst),8505,1,Israel,Israel,Israel,Ukraine,430
+2007-10-18T00:00:00Z,Kidney donor case to continue,The Mercury (South Africa),8521,1,Canada,"Brazil, Canada, Germany, Israel",Canada,Canada,435
+2007-11-14T00:00:00Z,"It's no holiday; Companies try to make medical tourism seem like purchasing any other consumer item, but consumers should know how kidneys are bought and sold",Ottawa Citizen,9193,1,Philippines,Canada,Philippines,Philippines,440
+2007-12-03T00:00:00Z,"Transplant tourist flew 7,000 miles hoping for a pounds 40,000 kidney",The Western Mail,9543,1,Philippines,Philippines,Philippines,Philippines,441
+2007-12-11T00:00:00Z,FOCUS: Philippine surfing paradise becomes goldmine for organ peddlers,Japan Economic Newswire,9846,1,Philippines,Philippines,Philippines,Philippines,444
+2008-01-09T00:00:00Z,Tamil Nadu villagers sell organs to survive acute poverty,Hindustan Times,10515,1,India,India,India,India,446
+2008-01-12T00:00:00Z,Egyptian woman says husband sold her kidney,Agence France Presse - English,10518,1,Egypt,Egypt,Egypt,Egypt,448
+2008-01-25T00:00:00Z,"In Gurgaon, about 500 kidneys sold illegally in six years",HT Syndication,10534,1,"Britain, Greece","Britain, Greece",Greece,India,449
+2008-01-31T00:00:00Z,Time for healthy S'poreans to come forward and donate kidneys,The Straits Times (Singapore),11298,1,India,Singapore,Singapore,India,455
+2008-02-08T00:00:00Z,Hotel slip-up reportedly snares kidney 'kingpin',The Toronto Star,11619,1,"Canada, India","Canada, Greece, India, Turkey","Canada, India",India,456
+2008-02-09T00:00:00Z,"Alleged chief of kidney scam nabbed in Nepal Nepali police arrest a key suspect in Indian organ sale case, hunt still on for his brother",The Straits Times (Singapore),11631,1,"Canada, India","Canada, India","Canada, India",India,459
+2008-02-10T00:00:00Z,DOC HORRORS GARDAI IN HUNT FOR SURGEONS OVER EUR15M ILLEGAL TRANSPLANT SCAM,Daily Mirror,11638,1,India,"Canada, Greece, India, Ireland, Turkey","Canada, India",India,460
+2008-02-19T00:00:00Z,'Dr. Horror's' brother in custody Kidney harvesting suspect said to have helped with surgeries,The Toronto Star,11915,1,"Canada, India","Britain, Canada, Greece, Turkey, United States","Canada, India",India,484
+2008-03-21T00:00:00Z,Prof Rizvi decries violation of anti-organ trade law,Pakistan Press International,12531,1,"Iran, Kuwait","Iran, Kuwait","Iran, Kuwait","Iran, Pakistan",486
+2008-05-21T00:00:00Z,CAPITAL VIEW Human organ trafficking,BusinessWorld,13847,1,Philippines,Israel,Philippines,Philippines,499
+2008-06-05T00:00:00Z,Nepali gang sold women to brothels after selling their kidneys,HT Syndication,14200,1,India,India,India,India,500
+2008-06-28T00:00:00Z,ROUTINE CHECK EXPOSES KIDNEY RACKET IN MP,UNI (United News of India),14948,1,India,India,India,India,509
+2008-06-30T00:00:00Z,Greek woman jailed over Indian organ trade scandal,Agence France Presse - English,14956,1,India,Greece,India,India,513
+2008-08-04T00:00:00Z,Not a cent paid for their home She was unaware that hubby had sold his kidney and is still struggling to clear the mortgage payments,The Straits Times (Singapore),16013,1,Indonesia,Singapore,Indonesia,Singapore,538
+2008-09-03T00:00:00Z,"RETAIL MAGNATE JAILED,FINED $17000 FOR BUYING KIDNEY FROM INDONESIAN",UNI (United News of India),16661,1,"Indonesia, Singapore","Indonesia, Singapore","Indonesia, Singapore",Singapore,554
+2008-09-21T00:00:00Z,EIGHT NABBED FOR INVOLVEMENT IN INTER-STATE KIDNEY RACKET,UNI (United News of India),17365,1,India,Bihar,India,Bihar,565
+2008-09-29T00:00:00Z,Kidney trafficking probe continues,Daily News (South Africa),17628,1,Brazil,Brazil,Brazil,Brazil,566
+2008-11-01T00:00:00Z,TWO BOOKED FOR FORCING DEBT-STRAPPED YOUTH TO SELL HIS KIDNEY,HT Syndication,18586,1,India,India,India,India,577
+2008-11-19T00:00:00Z,Kidney-for-sale middleman starts 14-month jail term after appeal dismissed,Channel NewsAsia,19061,1,"Indonesia, Singapore",Indonesia,Singapore,Singapore,587
+2008-11-28T00:00:00Z,Kidney trafficking case reopened,Daily News (South Africa),19076,1,"Brazil, Israel","Brazil, Israel",Israel,South Africa,588
+2009-03-18T00:00:00Z,Egypt pressured to end underground organ trade,Associated Press International,20698,1,Egypt,Saudi Arabia,Egypt,Egypt,603
+2009-05-01T00:00:00Z,"I BOUGHT A KIDNEY FROM A POOR AND DESPERATE MUM.. EXCLUSIVE. IT'S ILLEGAL ACROSS MOST OF THE WORLD BUT IN SOME COUNTRIES YOU CAN STILL PAY FOR ORGANS. HERE, ONE WOMAN EXPLAINS WHY SHE MADE THE CONTROVERSIAL DECISION TO BUY SOMEONE'S KIDNEY.",Daily Mirror,21965,1,Pakistan,Pakistan,Pakistan,Pakistan,610
+2009-06-15T00:00:00Z,"Transplantation of Human Organs and Tissues Ordinance, 2007 not the ultimate solution: Illegal kidney 'donation' trade goes on",Daily Times (PK),22352,1,Pakistan,Pakistan,Pakistan,Pakistan,617
+2009-07-25T00:00:00Z,Organ 'matchmaker'?,The Bismarck Tribune,23510,1,Israel,"Israel, United States","Israel, United States","China, India, Israel, United States",640
+2009-08-03T00:00:00Z,EDITORIAL: Pay organ donors to ease shortage,The Lima News (Ohio),24228,1,Israel,Israel,Israel,Israel,652
+2009-08-13T00:00:00Z,Illegal kidney trade: Andhra engineer arrested in Nadiad,Indian Express,24253,1,"Iran, Israel","India, Iran, Israel, Singapore","Israel, Singapore","India, Israel, Singapore",657
+2009-08-23T00:00:00Z,"MAN SAYS HE GOT $20,000 IN N.Y. FOR SELLING KIDNEY",Pittsburgh Post-Gazette,24575,1,Israel,Israel,Israel,United States,659
+2009-09-03T00:00:00Z,"EGYPT : CAIRO ORGAN TRADE RING BUSTED, 3 SURGEONS ARRESTED",ANSAmed - English,24905,1,"China, Saudi Arabia","China, Saudi Arabia",China,Egypt,668
+2009-10-22T00:00:00Z,ISRAELI SURGEON EXTRADITED TO ISRAEL OVER ORGAN TRAFFICKING CHARGES,IPR Strategic Business Information Database,25604,1,Israel,Israel,Israel,Ukraine,682
+2009-11-15T00:00:00Z,Why would you sell your heart?,The Financial Express,25767,1,Iran,Iran,Iran,Iran,692
+2009-12-31T00:00:00Z,UAE : Egypt debates new law to halt organ trade,Right Vision News,25984,1,"Bangladesh, Egypt","America, Bangladesh, China, India",India,"Egypt, India",704
+2010-02-05T00:00:00Z,Kidney used in deadly transplant in Peru obtained from poor donor PERU -TRANSPLANTS,EFE Newswire - Americas in Focus,26060,1,Peru,Mexico,Mexico,Peru,709
+2010-03-02T00:00:00Z,FED: Australians involved in dealings with Dr Horror,AAP Newsfeed,26125,1,India,Australia,India,India,715
+2010-03-03T00:00:00Z,Life and death incisions: kidney trade comes at a high price for both sides,Sydney Morning Herald (Australia),26126,1,Iraq,Australia,Iraq,"Baghdad, Iraq",716
+2010-03-03T00:00:00Z,ILLEGAL CLINICS Indian organs sold off here,"The Advertiser/Sunday Mail (Adelaide, South Australia)",26128,1,India,Australia,India,India,718
+2010-06-02T00:00:00Z,KDC slaps jail terms for human traffickers,Himalayan Times,26387,1,India,India,India,India,736
+2010-06-25T00:00:00Z,Yemeni arrested for organ trafficking,Agence France Presse - English,26438,1,Egypt,Egypt,Egypt,Egypt,739
+2010-07-18T00:00:00Z,Nagpur man in cop net for selling Delhi youth's kidney,Mail Today,26480,1,India,India,India,India,740
+2010-08-12T00:00:00Z,Azerbaijan implicated in the scandal with gang of illegal transplant surgeons from Ukraine,ARMINFO News Agency,26522,1,"Azerbaijan, Israel, Ukraine",Israel,Israel,Azerbaijan,742
+2010-09-16T00:00:00Z,Netcare charged with illegal transplants,Cape Times (South Africa),26585,1,"Brazil, Canada, Israel, Romania, South Africa","Brazil, Canada, Israel, Romania","Brazil, Canada, Israel","Brazil, South Africa",753
+2010-10-23T00:00:00Z,Gift of life,The Express Tribune,26761,1,Oman,Oman,Oman,Pakistan,764
+2010-11-02T00:00:00Z,KIDNEY SOLD FOR LAND,States News Service,26786,1,Cambodia,India,India,India,765
+2010-11-09T00:00:00Z,African hospital pleads guilty in organ trafficking case,Reuters Health Medical News,26803,1,"Brazil, Israel, Romania, South Africa","Canada, Germany, Israel, South Africa, Turkey","Israel, Romania, South Africa, Turkey","Kosovo, South Africa",771
+2010-11-24T00:00:00Z,Roundup: Organ trafficking syndicate found in South Africa by Amy Jephta,Xinhua General News Service,26865,1,Israel,Israel,Israel,South Africa,788
+2011-05-07T00:00:00Z,CHINA: BLACKMARKET FOR HUMAN ORGANS AIDED BY INTERNET,Inter Press Service,27331,1,"China, Egypt, Peru, Philippines","China, Egypt, Peru, Philippines, United States","China, Egypt, Peru, Philippines","China, Egypt, Peru, Philippines",853
+2011-06-02T00:00:00Z,"Chinese teen sells kidney for 2,000 pounds to buy iPad 2",Asian News International (ANI),27404,1,China,China,China,"China, India",857
+2011-06-05T00:00:00Z,crazy world,Sunday Mercury,27488,1,China,China,China,China,858
+2011-06-13T00:00:00Z,Yuan a Kidney?,Slate Magazine,27506,1,China,China,China,China,863
+2011-06-18T00:00:00Z,Boy sold kidney to buy iPad,Weekly Cutting Edge,27518,1,China,China,China,China,864
+2011-06-30T00:00:00Z,RPF nabs two on charges of selling human organs,UNI (United News of India),27556,1,India,India,India,India,879
+2011-07-06T00:00:00Z,A country that is a virtual shop,Columnists India/Pak,27571,1,"Indonesia, Pakistan","Indonesia, Qatar, Saudi Arabia","Indonesia, Pakistan",Pakistan,892
+2011-07-28T00:00:00Z,Police investigate first case of organ trafficking EXCLUSIVE,Sydney Morning Herald (Australia),27627,1,Philippines,Philippines,Philippines,"Australia, Philippines",908
+2011-08-10T00:00:00Z,Vietnam charges 4 for alleged kidney trafficking,Associated Press Online,27685,1,"China, Vietnam",China,China,China,915
+2011-08-21T00:00:00Z,A country that is a virtual shop,Sunday Times (Islamabad),27727,1,Pakistan,Indonesia,"Indonesia, Pakistan",Pakistan,927
+2011-09-16T00:00:00Z,Two more suspects arrested,Bangladesh Government News,27796,1,Bangladesh,"Bangladesh, India, Indonesia, Malaysia",Bangladesh,"Bangladesh, India",932
+2011-10-27T00:00:00Z,NYC man pleads guilty to brokering kidney,Associated Press State & Local,27955,1,"Bangladesh, China, India, Israel, United States","Israel, United States","Bangladesh, China, India, Israel, United States","Bangladesh, China, India, Israel",996
+2011-12-02T00:00:00Z,The body bazaar,EKantipur.com,28063,1,India,"Brazil, China, India, Iran",India,India,1009
+2012-01-22T00:00:00Z,'Dr. Vulture's' kidney factory North York man who bought an organ abroad is key witness in transplant sale trial in Kosovo,The Toronto Star,28197,1,Japan,Japan,Japan,"Japan, Turkey",1018
+2012-03-02T00:00:00Z,'Kidney gang' charged over illegal trade,thetimes.co.uk,28341,1,China,China,China,China,1031
+2012-03-10T00:00:00Z,The kidney job,Daily Times,28370,1,Pakistan,Pakistan,Pakistan,Pakistan,1035
+2012-03-27T00:00:00Z,Illegal trade in human kidneys flourishing,Shanghai Daily (Benchmark),28424,1,China,China,China,China,1043
+2012-04-09T00:00:00Z,Chinese Teen Sells Kidney For An iPad,Newstex Blogs,28548,1,China,China,China,China,1047
+2012-04-10T00:00:00Z,The noxious weed,Pakistan Today,28557,1,China,China,China,China,1054
+2012-04-13T00:00:00Z,"Chinese Teen Sells Kidney For iPhone, iPad",Techtree.com,28574,1,China,China,China,China,1059
+2012-04-21T00:00:00Z,On sale: Human organs!,Kashmir Times (india),28600,1,"China, India, Pakistan","China, India, Pakistan","China, India, Pakistan","China, Pakistan",1060
+2012-05-07T00:00:00Z,"China organ rings raided, 20 rescued",UPI (United Press International),28653,1,Indonesia,Indonesia,Indonesia,Indonesia,1068
+2012-05-08T00:00:00Z,Shanghai Municipal Government: 20 Rescued in Transplant Raids,China Business News,28656,1,"China, India, Indonesia","China, Indonesia","China, Indonesia","China, India, Indonesia",1074
+2012-05-28T00:00:00Z,ILLEGAL KIDNEY TRADE 'BOOMING',States News Service,28773,1,"China, India, Pakistan","China, India, Israel, Pakistan","China, India, Israel, Pakistan","China, India, Israel, Pakistan",1129
+2012-06-01T00:00:00Z,Guardian Weekly: Poor Iranians compete to sell their kidneys: It is the only country where the organ trade is legal and flourishing,The Guardian Weekly,28812,1,"Bulgaria, Iran",Iran,"Bulgaria, China, India, Iran, Pakistan",Iran,1145
+2012-06-29T00:00:00Z,Black Market for Body Parts Spreads Among the Poor in Europe,The New York Times,28948,1,Serbia,"Germany, India",Serbia,"India, Serbia",1146
+2012-07-23T00:00:00Z,Cash for kidneys: Pakistan s flourishing trade in illegal transplants,Newstex Blogs,29029,1,Oman,Oman,Oman,Pakistan,1183
+2012-08-11T00:00:00Z,Chinese student sold kidney to buy iPad World Bulletin,The Daily Telegraph (London),29130,1,China,China,China,China,1191
+2012-11-10T00:00:00Z,"Man sells girlfriend's kidney, lands in jail",New India Express,124,1,India,India,India,India,1199
+2012-11-13T00:00:00Z,She sold her kidney to protect son,The Times of India (TOI),135,1,India,India,India,India,1202
+2012-11-17T00:00:00Z,"A house of canards to sell kidneys DNA visits the house in Bangalore shown as the residence of a kidney donor, to find that police verification of the donor's residence and relationship with a kidney recipient can be a farce",DNA,162,1,India,India,India,India,1218
+2012-11-27T00:00:00Z,EU focuses on SA organ trafficking Kidney scandal first for research,Pretoria News (South Africa)/Pretoria News Weekend (South Africa),207,1,"Brazil, Israel",Israel,Sweden,South Africa,1222
+2012-11-29T00:00:00Z,9 convicted in illegal kidney transplant,China Daily European Edition,219,1,"Anhui, China",China,China,China,1223
+2012-12-03T00:00:00Z,Surgeon and six men jailed in 'kidney-for-iPad' case after teenager sells organs to buy Apple gadgets,MailOnline,246,1,"China, India","China, India","China, India","China, India",1236
+2012-12-13T00:00:00Z,Fifteen accused of trading human organs,China Daily European Edition,290,1,China,China,China,China,1239
+2013-01-05T00:00:00Z,Ramnagara police bust kidney transplantation racket: 7 held,UNI (United News of India),467,1,India,India,India,India,1243
+2013-02-15T00:00:00Z,SHRC seeks report on Guntur kidney trade,The Times of India (TOI),729,1,India,India,India,India,1248
+2013-03-10T00:00:00Z,A grim tale of economic woes,The New Nation (Bangladesh),824,1,Bangladesh,United States,Bangladesh,Bangladesh,1259
+2013-04-07T00:00:00Z,Two kidney racketeers arrested,My Republica,1078,1,India,India,India,India,1268
+2013-04-20T00:00:00Z,"'Would you sell your organs?' Organ-trafficking trial sheds light on sordid, dangerous business",The Toronto Star,1133,1,"Israel, Poland, Russia, Turkey","Canada, France, Turkey, US","France, Germany, Israel, Russia, Turkey, US","Canada, Turkey",1269
+2013-04-29T00:00:00Z,Kosovo : 3 get jail time in organ trafficking case,The Associated Press,1172,1,"Canada, Germany, Israel, Serbia, Turkey","Canada, Germany, Israel, Poland",Israel,Kosovo,1278
+2013-04-30T00:00:00Z,Organ gang behind illegal transplants,The Herald (Glasgow),1186,1,"Canada, Germany, Israel, Kazakhstan, Kosovo, Poland, Russia, Turkey, Ukraine","Canada, Germany, Israel, Poland, United States","Canada, Germany, Israel, Soviet Union, Turkey, United States","Canada, Israel, Kosovo, Poland",1281
+2013-06-15T00:00:00Z,Kidney racket case: CB-CID probe likely,New India Express,1527,1,India,India,India,India,1302
+2013-07-11T00:00:00Z,Chennai man arrested in illegal kidney racket,New India Express,1668,1,India,India,India,India,1308
+2013-07-18T00:00:00Z,???Cadaver laws,Newstex Blogs,1704,1,Netherlands,Netherlands,Netherlands,Netherlands,1313
+2013-08-02T00:00:00Z,India 's great organ bazaar,Times of India (Electronic Edition),1844,1,India,India,India,India,1319
+2013-08-19T00:00:00Z,Police bust kidney-trafficking ring in central China,Philippines News Agency,1916,1,"China, Wuhan",China,China,China,1324
+2013-08-28T00:00:00Z,???Elshad Abdullayev declared internationally wanted,Newstex Blogs,1969,1,Israel,"France, Israel, United States",Israel,Azerbaijan,1327
+2013-11-12T00:00:00Z,Cash for kidneys offer lures Britons Patients promised illegal transplants at hospital ; Sri Lankan cash for kidney transplant offer lures Britons,The Times (London),2391,1,"India, Sri Lanka","Britain, India, UK","India, Sri Lanka",Sri Lanka,1344
+2014-04-23T00:00:00Z,Trafficking ring lured desperate young women to Turkey in body organs-for-cash scheme,The Jerusalem Post,3389,1,Israel,Israel,Israel,Turkey,1371
+2014-05-08T00:00:00Z,Racket Not Ruled out in 'Kidney Sale' Case: Cops,New India Express,3451,1,India,"India, Iran",India,India,1379
+2014-05-24T00:00:00Z,12 suspects await verdict as trial closes on organ trading case,Newstex Blogs,3519,1,China,China,China,China,1390
+2014-05-24T00:00:00Z,One more held in kidney sale case,The Pioneer (India),3523,1,India,India,India,India,1394
+2014-06-08T00:00:00Z,"After Cuttack , Bhubaneswar man cries kidney sale",The Times of India (TOI),3614,1,India,India,India,India,1406
+2014-06-08T00:00:00Z,Pakistan : CIA Cantt arrest member of kidney seller group,Right Vision News,3617,1,Pakistan,Pakistan,Pakistan,Pakistan,1407
+2014-06-10T00:00:00Z,Special team to zero in on kidney racket victims,The Times of India (TOI),3674,1,India,India,India,India,1410
+2014-06-25T00:00:00Z,Nepal 's Organ Trail: How traffickers steal kidneys,CNN.com,3780,1,India,India,India,India,1411
+2014-07-02T00:00:00Z,Cambodian police arrest two suspects for human organ trafficking,Xinhua General News Service,3812,1,"India, Thailand","India, Thailand","India, Thailand","India, Thailand",1413
+2014-07-30T00:00:00Z,"5 Arrested for Illegal Kidney Sale Bid, Kingpin Absconding",New India Express,3958,1,India,India,India,India,1431
+2014-08-07T00:00:00Z,How Bengal's poor sell kidneys in other states,The Times of India (TOI),3996,1,India,India,India,India,1441
+2014-08-08T00:00:00Z,Gang involved in kidney business arrested,Daily Times (PK),4019,1,Pakistan,Pakistan,Pakistan,Pakistan,1450
+2014-08-11T00:00:00Z,Organ trafficking ring allegedly smuggled human kidneys in seafood containers,Newstex Blogs,4109,1,China,China,China,China,1458
+2014-08-20T00:00:00Z,ED attached Dr Ganesan assets in Kidney racket case,Bureaucracy Today,4167,1,India,India,India,India,1460
+2014-08-22T00:00:00Z,Verdict on China's largest organ trading case,China Daily,4172,1,China,China,China,China,1465
+2014-11-21T00:00:00Z,Alleged kidney sellers arrsted before boarding India -bound plane at Karachi airport,The News Tribe,4681,1,India,India,India,India,1478
+2014-12-16T00:00:00Z,Haryana Information Commission brings Gurgaon's Medanta Medicity and Artemis Hospital under RTI purview,Merinews (India),4918,1,India,India,India,India,1483
+2014-12-19T00:00:00Z,Black market kidney broker is released from prison,The Associated Press,4935,1,Israel,Israel,Israel,Israel,1485
+2015-01-04T00:00:00Z,"Bangladesh organ trade continues unabated, targeting children, the poor",Weekly Cutting Edge,4988,1,India,India,India,"Bangladesh, India",1486
+2015-02-17T00:00:00Z,kidney trade busted; doctor and 3 others arrested,Siasat Daily (India),5217,1,"India, Iran, Sri Lanka","India, Iran, Sri Lanka","India, Iran","Iran, Sri Lanka",1487
+2015-03-27T00:00:00Z,Three Cambodians convicted in first kidney trafficking case,Agence France Presse - English,5426,1,Cambodia,Thailand,Cambodia,Thailand,1491
+2015-05-28T00:00:00Z,Why organ trafficking thrives in India,MINT,5872,1,India,India,India,India,1531
+2015-05-29T00:00:00Z,ED to probe kidney sale racket in Cuttack,The Times of India (TOI),5876,1,India,India,India,India,1532
+2015-07-11T00:00:00Z,Man Who Bought Kidney from Labourer Held,New India Express,6124,1,India,India,India,India,1537
+2015-07-31T00:00:00Z,Five held in kidney case,The Telegraph (India),6228,1,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,1542
+2015-09-02T00:00:00Z,We have to fight poverty to stop kidney business,The New Nation (Bangladesh),6479,1,Bangladesh,India,Bangladesh,India,1556
+2015-09-13T00:00:00Z,Woman sells kidney for Rs3L to marry off daughter,The Pioneer (India),6528,1,India,India,India,India,1557
+2015-10-08T00:00:00Z,Need a kidney? Inside the world's biggest organ market,News Chronicle (Nigeria),6706,1,Bangladesh,India,Bangladesh,Bangladesh,1571
+2016-01-20T00:00:00Z,Kidney scam: Cops yet to act against docs,The Times of India (TOI),7368,1,"India, Sri Lanka","India, Sri Lanka","India, Sri Lanka",Sri Lanka,1596
+2016-01-27T00:00:00Z,Kidneys trade jail,The Sun (England),7486,1,Turkey,Turkey,Turkey,Turkey,1597
+2016-01-28T00:00:00Z,Sri Lanka bans organ transplants for foreigners over scandal,thetimes.co.uk,7488,1,India,India,India,Sri Lanka,1602
+2016-01-29T00:00:00Z,Sri Lanka halts kidney transplants,The Times (London),7499,1,"India, Sri Lanka",India,"India, Sri Lanka",Sri Lanka,1606
+2016-02-18T00:00:00Z,Indonesian police track organ trafficking ring targeting poor villagers,AM(ABC Transcript),7570,1,Indonesia,Indonesia,Indonesia,Indonesia,1608
+2016-03-15T00:00:00Z,Kidney selling racket busted,The Times of India (TOI),7679,1,"India, Sri Lanka","India, Sri Lanka","India, Sri Lanka","Delhi, India, Sri Lanka",1615
+2016-03-28T00:00:00Z,Village kidney racket with wide links,Indian Health Care News,7737,1,India,India,India,India,1619
+2016-04-04T00:00:00Z,Oman health: Sheer hell of illegal organ ops revealed,Times of Oman,7852,1,Pakistan,Pakistan,Pakistan,Pakistan,1624
+2016-05-10T00:00:00Z,"Harry Wu, Chinese dissident - obituary",telegraph.co.uk,8022,1,China,United States,United States,China,1630
+2016-06-03T00:00:00Z,"Top hospital says it is 'victim of a well-orchestrated operation to cheat patients', probe shows gang's reach in Sri Lanka , Thailand",MailOnline,8175,1,"Delhi, India, West Bengal","India, Sri Lanka",India,India,1631
+2016-06-05T00:00:00Z,Kidney racket at Apollo Hospital: How to stop illegal transplants,The Financial Express,8246,1,"India, Sri Lanka",India,"India, Iran",India,1632
+2016-06-07T00:00:00Z,Indian police make new arrests in kidney sale racket,Agence France Presse - English,8274,1,India,India,India,India,1633
+2016-06-08T00:00:00Z,Kidney trafficking mastermind being taken to Delhi,IANS-English,8289,1,India,"Delhi;Bu, India, Indonesia",India,"India, Indonesia, Sri Lanka",1645
+2016-06-09T00:00:00Z,GLOBAL SNAPSHOT,The Cairns Post (Australia),8306,1,India,India,India,India,1650
+2016-06-13T00:00:00Z,Illegal organ trade in the country,Web Newswire,8338,1,India,India,India,India,1652
+2016-06-16T00:00:00Z,"Greece : Turkish , Israeli Gangs Engaged in Organ Trafficking of Syrian Refugees",Thai News Service,8350,1,"Israel, Turkey",Israel,Israel,Turkey,1657
+2016-06-28T00:00:00Z,Delhi police in city for kidney racket probe,The Times of India (TOI),8407,1,India,India,India,India,1674
+2016-06-29T00:00:00Z,Kidney recipient denied bail by the court,American Banking and Market News,8418,1,India,India,India,India,1678
+2016-07-09T00:00:00Z,Kidney rackets rampant across India as crackdown proves difficult,Hindustan Times,8456,1,"India, Iran, Israel, Singapore","India, Iran, Israel, Singapore","India, Iran, Israel, Singapore",India,1688
+2016-07-15T00:00:00Z,"Kidney sale nixed in nick of time at Powai hospital, 4 held",The Times of India (TOI),8481,1,India,India,India,India,1693
+2016-07-18T00:00:00Z,COPS ON LOOKOUT - Donor who wasn't paid Rs 10L blew lid off scam,Times of India (Electronic Edition),8536,1,"Gujarat, India",India,India,India,1701
+2016-08-01T00:00:00Z,Anand kidney selling racket: Doctor arrested from Delhi,The Times of India (TOI),8702,1,"India, Pakistan","India, Kuwait, Saudi Arabia",India,"India, Myanmar, Pakistan, Sri Lanka",1704
+2016-08-10T00:00:00Z,"Mumbai hospital CEO, four medicos nabbed for kidney racket So far, a total of 15 persons (including the five medicos) have been arrested in the case which first came to light last month at the hospital.",Indian Express,8760,1,"Gujarat, India","Gujarat, India",India,India,1751
+2016-08-13T00:00:00Z,A kidney saver from the land of organ seller,Hindustan Times,8791,1,India,"India, Myanmar, Sri Lanka",India,India,1752
+2016-08-18T00:00:00Z,Hiranandani kidney trafficking case: Bail for 5 doctors,Afternoon Voice (India),8813,1,India,India,India,India,1757
+2016-08-20T00:00:00Z,Man behind 60 illegal kidney transplants held,The Times of India (TOI),8831,1,India,India,India,India,1761
+2016-08-25T00:00:00Z,How much does a kidney cost in Iran ?,Arutz Sheva,8897,1,Iran,"Iran, United States",Iran,Iran,1765
+2016-09-05T00:00:00Z,Organ racket: Man caught trying to buy kidney dies,Times of India (Electronic Edition),8954,1,India,India,India,India,1770
+2016-09-13T00:00:00Z,Kidney racket: Anand police's authority challenged in HC,Mirror Publications,8996,1,India,India,India,India,1778
+2016-10-12T00:00:00Z,"Your kidney will regrow, whistleblower was told",Hindustan Times,9173,1,India,India,India,India,1791
+2016-10-12T00:00:00Z,Kidney racket: Five Hiranandani doctors chargesheeted for criminal conspiracy,The Times of India (TOI),9174,1,India,India,India,India,1793
+2016-10-27T00:00:00Z,Israel Special Investigations Unit busts organ trafficking ring,Jpost.com (The Jerusalem Post online edition),9283,1,Israel,Turkey,"Israel, Ukraine",Turkey,1813
+2016-11-10T00:00:00Z,Human organ trading racket busted at private clinic in Rawalpindi,Daily The Post,9359,1,Pakistan,Pakistan,Pakistan,Pakistan,1841
+2016-11-21T00:00:00Z,"Syria : Coroner's Office - Body Organs of Over 15,000 Syrians Sold in 6 Years",Thai News Service,9461,1,"Iraq, Syria","Egypt, Turkey","Iraq, Turkey",Turkey,1845
+2016-12-24T00:00:00Z,"Despite Efforts, India Remains An Easy Market For Illegal Organ Trade",Youth Ki Awaaz,9682,1,India,India,India,India,1862
+2016-12-26T00:00:00Z,2 charged with running international organ traffic ring,The Times of Israel,9686,1,"Bulgaria, Israel",Israel,"Bulgaria, Israel","Bulgaria, Thailand, Turkey",1869
+2016-12-30T00:00:00Z,Kosovo court orders retrial of men convicted of organ trafficking,Channel NewsAsia,9700,1,"China, Israel, Soviet Union, Turkey",Israel,"Israel, Soviet Union, Turkey","China, Kosovo",1879
+2017-02-22T00:00:00Z,How You Can Help Stop The Theft And Trafficking Of Organs In India,Youth Ki Awaaz,10035,1,India,India,India,India,1891
+2017-04-16T00:00:00Z,"Kidney 'donor' fails to find guarantor, back in jail",The Times of India (TOI),10404,1,India,India,India,India,1900
+2017-04-19T00:00:00Z,Experts call for international efforts against organ tourism,Global Times (China),10419,1,China,"Australia, Egypt, Pakistan","Australia, China, Egypt, Pakistan","China, Egypt, Pakistan",1902
+2017-05-02T00:00:00Z,Two Omanis arrested in illegal kidney trade racket,ArabianBusiness.com,10582,1,Oman,Oman,Oman,"Oman, Pakistan",1939
+2017-05-04T00:00:00Z,Organ trade raid,Dawn (Pakistan),10593,1,Oman,Oman,Oman,Pakistan,1944
+2017-05-05T00:00:00Z,Organ trade,The News International,10604,1,Oman,Oman,Oman,Pakistan,1945
+2017-05-11T00:00:00Z,Agent involved in illegal kidney sale in Lahore sent on physical remand,The Frontier Post (AsiaNet),10696,1,"India, Malaysia, Oman, Pakistan, UK","India, Malaysia, Oman, UK","India, Malaysia, Oman, Pakistan, UK",Pakistan,1971
+2017-05-26T00:00:00Z,Kidney racket busted in capital,Hindustan,10819,1,India,India,India,India,2038
+2017-05-27T00:00:00Z,Police arrest four members of kidney selling racket,DNA,10824,1,India,"India, Iran",India,"India, Sri Lanka",2049
+2017-06-08T00:00:00Z,It's not always wrong to pay people for their organs,Global English (Middle East and North Africa Financial Network),10887,1,"India, Pakistan, US","India, Pakistan, US",Pakistan,"India, Pakistan, US",2052
+2017-06-09T00:00:00Z,Profiteering in saving lives,The Pioneer (India),10891,1,India,India,India,India,2056
+2017-06-27T00:00:00Z,"Wealth, poverty propping up Pakistan 's illegal kidney trade",Newstex Blogs,10990,1,"Oman, Pakistan",Oman,"Oman, Pakistan",Pakistan,2066
+2017-07-21T00:00:00Z,Hiranandani Hospital kidney racket: Three suspects to be questioned,Indian Express,11186,1,Singh,Gujarat,India,India,2069
+2017-07-28T00:00:00Z,Online kidney racket uses city hospital name for biz,The Times of India (TOI),11237,1,India,India,India,India,2071
+2017-08-24T00:00:00Z,Hyderabad Police yet to grill Lankan doctor in kidney racket,Global English (Middle East and North Africa Financial Network),11451,1,Sri Lanka,India,Sri Lanka,Sri Lanka,2074
+2017-09-09T00:00:00Z,Cops to tell Cairo hosp to stall kidney transplants,The Times of India (TOI),11519,1,Egypt,Egypt,Egypt,Egypt,2082
+2017-09-11T00:00:00Z,"'12 patients, donors went to Cairo for kidney transplants'",The Times of India (TOI),11525,1,"Egypt, India",Egypt,"Egypt, India","Egypt, India",2087
+2017-09-26T00:00:00Z,FIA arrests illegal kidney trade racket from Nowshera,Global English (Middle East and North Africa Financial Network),11674,1,Afghanistan,Afghanistan,Afghanistan,Afghanistan,2103
+2017-09-27T00:00:00Z,Illegal kidney transplant for Phagwara mayor's daughter at Rs. 40L,Global English (Middle East and North Africa Financial Network),11678,1,"Egypt, India","Egypt, India",Egypt,Egypt,2106
+2017-10-08T00:00:00Z,Remand of suspects in illegal kidney transplant case extended,Dawn (Pakistan),11752,1,"Afghanistan, Oman, Pakistan","Afghanistan, Oman, Pakistan",Pakistan,Pakistan,2111
+2017-10-17T00:00:00Z,Girl saved from selling kidney for marriage,Asian News International (ANI),11796,1,India,India,India,India,2117
+2017-10-24T00:00:00Z,A timely warning on the organs trade,The Sun (Nigeria),11839,1,Egypt,Egypt,Egypt,Egypt,2119
+2017-11-24T00:00:00Z,Cairo scam: Can illegal transplants done abroad attract Indian laws?,Times of India (Electronic Edition),12155,1,Egypt,Egypt,Egypt,Egypt,2125
+2017-11-24T00:00:00Z,"'Threatened, tricked', TN man flown to Cairo for job, but returns without kidney",The Times of India (TOI),12157,1,India,Egypt,Egypt,Egypt,2127
+2017-12-04T00:00:00Z,Two sentenced in Costa Rica for organ trafficking,Agence France Presse - English,12198,1,Israel,Israel,Greece,Costa Rica,2130
+2018-01-06T00:00:00Z,Israeli mastermind behind organ trafficking ring is arrested in Cyprus,Newstex Blogs,12436,1,Israel,Israel,Israel,Kosovo,2136
+2018-02-06T00:00:00Z,"Husband, in-laws sell woman's kidney for not meeting dowry demand; 2 arrested",Hindustan Times,12684,1,India,India,India,India,2143
+2018-05-24T00:00:00Z,Kosovo doctors jailed for organ trafficking,Agence France Presse - English,13681,1,"Israel, Kazakhstan, Russia, Soviet Union, Turkey",Israel,"Israel, Kazakhstan, Russia, Turkey",Kosovo,2146
+2018-11-05T00:00:00Z,"Man falls for WhatsApp ad, tries to sell kidney for Dh800,000",Khaleej Times (United Arab Emirates),15337,1,India,India,India,India,2162
+2019-01-10T00:00:00Z,Sell your kidney for an iPhone and now need lifelong dialysis,CE Noticias Financieras English,15981,1,China,China,China,China,2171
+2019-01-14T00:00:00Z,He sold a kidney to buy an iPhone and now lives prostrate in a bed,CE Noticias Financieras English,16055,1,China,China,China,China,2173
+2019-01-20T00:00:00Z,Indian woman arrested over kidney selling racket in Sri Lanka,Ada Derana,16093,1,Sri Lanka,Singapore,Sri Lanka,Singapore,2176
+2019-03-22T00:00:00Z,IMA smells a rat in campaign against cadaver transplant,The Times of India (TOI),16739,1,India,India,India,India,2200
+2019-04-02T00:00:00Z,"Global kidney racket busted, three arrested",Times of India (Electronic Edition),16826,1,"Egypt, Sri Lanka, Turkey",Turkey,Turkey,"Egypt, Sri Lanka, Turkey",2203
+2019-05-07T00:00:00Z,A harvest of kidneys in India,News Chronicle (Nigeria),17272,1,India,India,India,India,2207
+2019-06-13T00:00:00Z,"Once victims, they are now kingpins Kidney racket",Hindustan Times Lucknow,17604,1,India,India,India,India,2217
+2019-07-12T00:00:00Z,Vizag kidney racket reverberates in Karnataka High Court,Mirror Publications,17877,1,India,India,India,India,2230
+2019-08-05T00:00:00Z,"2-year-old moves SC, seeks CBI probe into kidney rackets",The Times of India (TOI),18113,1,India,India,India,India,2231
+2019-09-13T00:00:00Z,Bulgaria breaks up kidney trafficking ring,Agence France Presse - English,18459,1,"Bulgaria, Turkey",Turkey,Turkey,Turkey,2237
+2019-09-19T00:00:00Z,"BLOOD TRADE Iran 's legal organ market where sick brokers make ??45K a month preying on the poor - trading kidneys, livers and EYEBALLS",thesun.co.uk,18494,1,Iran,Iran,Iran,Iran,2243
+2020-02-19T00:00:00Z,Pakistan cracks down on illegal organ trade,dpa international (Englischer Dienst),19588,1,Pakistan,"Jordan, Libya, Oman",Pakistan,Pakistan,2261
+2020-02-27T00:00:00Z,This Day 25 years ago: More Kidney Thefts,Free Press Journal (India),19773,1,India,India,India,India,2262
+2020-07-18T00:00:00Z,"Hyderabad police bust kidney racket, one held",Global English (Middle East and North Africa Financial Network),20877,1,"Sri Lanka, Turkey",Sri Lanka,Sri Lanka,"Sri Lanka, Turkey",2271
+2020-08-02T00:00:00Z,Delhi: Murderer doctor's 100 victims became crocodiles feed in UP canal,The Times of India (TOI),20961,1,India,India,India,India,2272
+2020-10-08T00:00:00Z,He sells his kidney for an iPhone... now you need lifetime dialysis,CE Noticias Financieras English,21428,1,China,China,China,China,2280
+2021-07-14T00:00:00Z,Organ trade racket unearthed in Dibrugarh,Assam Tribune (India),23471,1,India,India,India,India,2294
+2021-07-15T00:00:00Z,"Organ racket gang busted in Assam, three arrested",The Times of India (TOI),23513,1,India,India,India,India,2310
+2021-11-29T00:00:00Z,"John Rwigambwa's widow charged with forgery, human trafficking",Legal Monitor Worldwide,24287,1,India,India,India,India,2336
+2022-04-05T00:00:00Z,Police dismantle organ trafficking ring,CE Noticias Financieras English,25082,1,Morocco,Turkey,Turkey,Turkey,2366
+2022-04-25T00:00:00Z,Selling kidneys now easier than finding jobs in Uganda,Daily Monitor,25203,1,India,India,India,India,2372
+2022-05-27T00:00:00Z,6 more kidneys sold through arrested agents: Crime branch,Hindustan Times Pune Edition,29562,1,India,India,India,India,2375
+2022-06-03T00:00:00Z,"Why do kidney transplant rackets happen? Cheap, low risk, organ in most demand, say experts",Indian Express,30348,1,India,India,India,India,2376
+2022-09-04T00:00:00Z,Odisha man who abandoned wife after selling her kidney arrested,Sambad English,30522,1,India,India,India,India,2414
+2022-09-14T00:00:00Z,Goes to the hospital for stomach pain and discovers that her kidney was sold by her husband,CE Noticias Financieras English,30576,1,India,India,India,India,2417
+2022-09-28T00:00:00Z,Court sets date to hear bail application by Nile Treasure Gate bosses,The Daily Monitor,30649,1,Uganda,Saudi Arabia,Saudi Arabia,Saudi Arabia,2418
